@@ -25,7 +25,7 @@ into some of the older threads.
 ### Twitter
 
 If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@holman](https://twitter.com/holman) on
+makes everyone more efficient. I'm [@kurtiskemple](https://twitter.com/kurtiskemple) on
 Twitter.
 
 ### Forking
